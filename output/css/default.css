@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Hack;
+    src: url(../fonts/MonoidNerdFont-Regular.ttf);
+}
+  
+body {
+    font-family: Hack, monospace;
+    color: gray;
+    background-color: black;
+}
